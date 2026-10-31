@@ -1,16 +1,21 @@
-## Hi there 👋
+# Adiel Soto
 
-<!--
-**adielsoto523-financeprospect/adielsoto523-financeprospect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Economics major (Finance minor) at UC San Diego, [Class of 2026]. Based in Los Angeles, CA.
 
-Here are some ideas to get you started:
+I'm looking for entry-level **Corporate Finance and FP&A** roles in the Los Angeles area.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+- Financial statement forecasting and DCF valuation
+- Ratio analysis and sensitivity analysis
+- Regression and statistical modeling on real datasets
+
+## Featured project
+**[RTX Corporation: Financial Forecast & DCF Valuation](https://github.com/adielsoto523-financeprospect/RTX-DCF-Valuation)**
+Excel model with a 2026–2030 forecast, DCF valuation, and WACC × terminal growth sensitivity tables.
+
+## Skills
+**Finance:** financial modeling, DCF valuation, forecasting, ratio analysis
+**Tools:** Excel, R, Python, Stata
+
+## Contact
+[www.linkedin.com/in/adielsoto]
