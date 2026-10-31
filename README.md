@@ -1,6 +1,6 @@
 # Adiel Soto
 
-Business Economics major (Finance minor) at UC San Diego, [Class of 2026]. Based in Los Angeles, CA.
+Business Economics major (Finance minor) at UC San Diego, graduated September 2026. Based in Los Angeles, CA.
 
 I'm looking for entry-level **Corporate Finance and FP&A** roles in the Los Angeles area.
 
