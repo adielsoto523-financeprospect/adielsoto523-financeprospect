@@ -14,7 +14,7 @@ I'm looking for entry-level **Corporate Finance** roles in the Los Angeles area.
 
 Excel model with a 2026–2030 forecast, DCF valuation, and WACC × terminal growth sensitivity tables.
 
-**[R Analytics Projects](https://github.com/adielsoto523-financeprospect/r-analytics-projects)**
+**[R Analytics Projects](https://github.com/adielsoto523-financeprospect/-r-analytics-projects)**
 
 Data analysis in R, including a regression study of Spotify listening data with a robustness check.
 
