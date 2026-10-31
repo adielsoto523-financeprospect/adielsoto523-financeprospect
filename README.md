@@ -2,7 +2,7 @@
 
 Business Economics major (Finance minor) at UC San Diego, graduated September 2026. Based in Los Angeles, CA.
 
-I'm looking for entry-level **Corporate Finance and FP&A** roles in the Los Angeles area.
+I'm looking for entry-level **Corporate Finance** roles in the Los Angeles area.
 
 ## What I work on
 - Financial statement forecasting and DCF valuation
