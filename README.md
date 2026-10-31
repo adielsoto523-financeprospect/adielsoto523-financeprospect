@@ -9,7 +9,7 @@ I'm looking for entry-level **Corporate Finance** roles in the Los Angeles area.
 - Ratio analysis and sensitivity analysis
 - Regression and statistical modeling on real datasets
 
-## Featured project
+## Featured projects
 **[RTX Corporation: Financial Forecast & DCF Valuation](https://github.com/adielsoto523-financeprospect/RTX-DCF-Valuation)**
 
 Excel model with a 2026–2030 forecast, DCF valuation, and WACC × terminal growth sensitivity tables.
