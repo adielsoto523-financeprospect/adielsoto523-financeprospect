@@ -11,11 +11,13 @@ I'm looking for entry-level **Corporate Finance and FP&A** roles in the Los Ange
 
 ## Featured project
 **[RTX Corporation: Financial Forecast & DCF Valuation](https://github.com/adielsoto523-financeprospect/RTX-DCF-Valuation)**
+
 Excel model with a 2026–2030 forecast, DCF valuation, and WACC × terminal growth sensitivity tables.
 
 ## Skills
 **Finance:** financial modeling, DCF valuation, forecasting, ratio analysis
+
 **Tools:** Excel, R, Python, Stata
 
 ## Contact
-[www.linkedin.com/in/adielsoto]
+[LinkedIn](https://www.linkedin.com/in/adielsoto)
